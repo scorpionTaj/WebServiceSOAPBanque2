@@ -173,7 +173,7 @@ Below are some screenshots demonstrating the main features:
 
 ### 1. Web Service WSDL
 
-![Web Service WSDL](images/Web Services.png)
+![Web Service WSDL](images/Web_Services.png)
 ![WSDL Screenshot](images/wsdl.png)
 
 ### 2. Server Running
